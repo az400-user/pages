@@ -3,5 +3,5 @@ data:
   PAGE_CONTENT: Green-Pages coming from Yellow-World!
 kind: ConfigMap
 metadata:
-  name: pages-config-map
+  name: pages-configmap
   namespace: brixton
