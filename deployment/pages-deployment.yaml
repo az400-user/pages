@@ -20,7 +20,7 @@ spec:
         tier: service
     spec:
       containers:
-        - image: joseing/pages:monitor
+        - image: joseing/pages:distributed
           name: pages
           ports:
             - containerPort: 8080
